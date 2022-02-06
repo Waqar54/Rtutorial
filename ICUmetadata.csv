@@ -1,0 +1,97 @@
+Patient,Airway_secretions,CXR,PEEP,Culture,Temp,O2Sat,PaO2,PaCO2,FiO2,Platelets,Bilirubin,WCC,Creatinine,Albumin,Protein,Urea
+1001,Purulent,Diffuse,5,Escherichia coli,36.4,94,10.3,4.9,50,464,9,23.9,42,18,48,5.8
+1002,Purulent,Diffuse,5,Aspergillus fumigatus,36.9,96,14,6.5,40,378,19,19,248,15,45,13.6
+1003,Non-purulent,Diffuse,14,Staphylococcus aureus,36.6,95,22.1,7.1,55,172,13,7.3,58,19,50,5.7
+1004,Non-purulent,Localised,8,Staphylococcus aureus,37.7,100,16.5,4.4,30,422,11,8,66,28,59,9.1
+2001,Purulent,None,5,Staphylococcus aureus,39.6,99,14.1,5.6,30,69,6,11.9,49,35,59,59
+2002,Purulent,Diffuse,5,Staphylococcus aureus,37,97,13.3,5.8,65,75,481,25.5,158,28,52,15.7
+2003,Purulent,Diffuse,5,Candida albicans,37,97,8.7,5,35,105,12,20.1,79,29,48,8.2
+2004,Purulent,Diffuse,11,Pseudomonas aeruginosa,39.6,97,13.2,7,65,191,90,8.2,117,25,48,
+2005,Purulent,Diffuse,5,Klebsiella pneumoniae,36.8,98,13.2,5.3,65,771,10,11.6,32,27,52,5.7
+2006,Purulent,Diffuse,5,Staphylococcus aureus,38.4,98,12.2,4.7,40,163,15,13.2,60,31,52,9.8
+2007,Purulent,Diffuse,8,,37.6,99,12.3,4.2,40,267,10,18.3,35,31,57,8.9
+2008,Purulent,None,8,Escherichia coli,37.6,98,10.6,4.7,30,221,8,12.5,52,30,54,7.6
+2009,Purulent,Localised,5,,39.5,98,12.7,4.2,40,325,8,12.5,29,28,49,5.3
+2010,Non-purulent,Diffuse,8,Staphylococcus aureus,38.6,97,11.7,5.4,70,198,16,8.8,53,30,54,5.9
+2011,Purulent,Localised,5,Staphylococcus aureus,37.2,96,11.2,4.4,25,468,3,20,40,34,64,5.8
+2012,Purulent,Diffuse,8,Haemophilus influenzae,38.8,97,12.8,6.2,40,111,17,5.7,73,26,48,8.2
+2013,Purulent,Diffuse,11,Escherichia coli,38.4,98,12.2,4.8,35,317,16,12.2,55,32,71,18.4
+2014,Purulent,Diffuse,11,Staphylococcus aureus,37.7,94,13.8,6.4,60,234,6,11.8,49,34,56,6.2
+2015,Purulent,Localised,8,Staphylococcus aureus,38.1,35,15.7,6,35,307,6,14.8,64,35,60,4.2
+2016,Purulent,Diffuse,5,Staphylococcus aureus,37.5,100,13.4,6,45,371,4,17.2,18,21,39,5.7
+2017,Purulent,None,8,Klebsiella oxytoca,36.7,100,16.6,4.5,25,282,5,10.9,38,38,58,5.3
+2018,Purulent,None,8,,37.5,100,32.4,4.5,100,314,6,16.3,38,34,58,4.5
+2019,Purulent,None,5,Staphylococcus aureus,37.6,99,12.1,4.7,30,160,11,6.2,36,29,53,2.8
+2020,Purulent,Localised,5,Staphylococcus aureus,37.5,96,9.1,4.1,40,149,7,13.4,46,40,63,6.5
+2021,Non-purulent,Localised,5,regional flora isolated,38.6,96,13.8,4.4,21,286,30,7.2,37,33,53,5.4
+2022,Purulent,Diffuse,8,Haemophilus influenzae,38.6,95,11,6.3,40,187,5,9.6,57,27,46,8.5
+2023,Purulent,Localised,5,Staphylococcus aureus,38.6,100,9.7,4.1,21,247,73,9.4,56,25,48,12.5
+2024,Non-purulent,Localised,11,Pseudomonas aeruginosa,37,96,14.8,6,40,461,5,18.8,50,31,65,12.5
+2025,Purulent,Localised,5,Pseudomonas aeruginosa,35,97,10.3,5.6,30,207,10,14.3,140,22,45,16.1
+2026,Purulent,None,8,Haemophilus influenzae,37.6,98,13.3,6.4,30,358,2,14.5,33,32,52,7
+2027,Non-purulent,Localised,5,Serratia species,39.2,98,14.3,7,30,377,21,22.8,235,27,55,30
+2028,Purulent,None,11,Acinetobacter pittii,37.9,98,4.9,5.7,35,234,4,13.2,49,31,56,6.3
+2029,Purulent,None,8,Haemophilus influenzae,38.3,97,15.4,6.5,50,169,8,13.8,47,35,59,6
+2030,Non-purulent,None,5,Haemophilus influenzae,37.8,100,8.7,5.5,28,189,11,7.9,39,31,51,2.9
+2031,Purulent,Localised,11,,37.9,97,12.8,8.9,65,266,11,11.3,72,31,53,13.5
+3001,Purulent,Localised,11,Staphylococcus aureus,37.5,96,20.1,5.3,50,237,4,15.3,55,20,48,8.2
+3002,Purulent,Localised,11,Klebsiella pneumoniae,36.5,96,11.1,3.7,45,431,,16.5,607,,52,25.4
+3003,Purulent,None,8,Escherichia coli,37,99,11.4,5.8,40,164,12,11,48,26,55,5.3
+3004,Purulent,Localised,8,Haemophilus parinfluenzae,36.3,98,9.5,6.7,30,263,4,7.3,67,24,58,94
+3005,Purulent,Diffuse,11,,37.1,94,10.3,5.7,35,292,5,6.6,115,21,63,15.5
+3006,Purulent,Diffuse,8,Klebsiella pneumoniae,37.4,93,,,40,307,11,7.1,,24,62,
+3007,Non-purulent,Diffuse,11,Candida albicans,38.2,95,15.2,6.9,40,139,,22.9,123,22,53,13.1
+3008,Non-purulent,Diffuse,14,Klebsiella species,37,98,12.2,6.5,70,166,6,13.3,176,17,51,13.7
+3009,Purulent,Diffuse,11,Staphylococcus aureus,37.9,96,8.7,6,50,198,8,9,85,20,49,10.3
+3010,Non-purulent,Diffuse,8,Serratia marcescens,37,100,15.2,6,35,386,5,12.7,179,21,41,25
+3011,None,Diffuse,5,Klebsiella pneumoniae,36.6,97,11.8,6.5,30,135,12,12.9,68,24,52,7.3
+3012,Non-purulent,Localised,11,Pseudomonas aeruginosa,37.5,100,13.3,6.1,40,295,4,18,65,18,60,10.4
+3013,Purulent,Localised,11,Escherichia coli,36.2,93,10.5,6.8,25,163,11,102,83,28,54,8.4
+3014,Non-purulent,Diffuse,11,,37,96,12.4,6.5,40,34,21,17.9,219,21,43,15.9
+3015,Purulent,Localised,5,Candida albicans,36.5,96,10.8,7.3,45,120,5,15.2,155,16,43,5.3
+3016,None,Localised,5,Staphylococcus aureus,37.8,100,12,4.6,50,393,6,8.5,72,14,54,8
+3017,Non-purulent,Diffuse,11,,36.7,98,14.2,3.5,35,46,9,7.4,30,21,52,11
+3018,Purulent,Localised,5,Candida albicans,36.5,95,9.9,5.1,40,48,49,14.6,156,18,41,18.6
+3019,Purulent,Diffuse,5,,36.9,96,8.7,3.7,25,362,5,14,103,23,72,17.7
+3020,Non-purulent,Localised,5,Staphylococcus aureus,38.8,95,12.5,6.3,40,390,10,7.5,52,27,68,5.4
+3021,Purulent,Diffuse,11,Staphylococcus aureus,37.8,100,10.5,7.6,40,237,31,10.8,86,27,63,12.5
+4001,Non-purulent,None,5,Stenotrophomonas maltophilia,37.5,94,4,5.3,40,605,8,16.1,488,25,,31
+4002,Non-purulent,Diffuse,5,Pseudomonas aeruginosa,38,97,11.8,4.4,50,353,14,17,73,32,,11.9
+4003,Non-purulent,Localised,11,Staphyloccus aureus (MRSA),38.3,94,8.8,4.8,75,208,6,8.2,82,31,,4.2
+4004,None,Diffuse,14,Klebsiella pneumoniae,38.2,92,,,50,795,12,29.4,61,19,,6.1
+4005,Non-purulent,Diffuse,14,,36.6,95,8.3,4.3,40,374,7,22.9,139,30,,30.6
+4006,Purulent,Diffuse,5,,37.7,92,,,30,324,3,12,51,30,,9.5
+4007,Purulent,Localised,11,,37.4,97,12.9,7.1,30,403,3,15.2,106,30,,8.1
+5001,Non-purulent,Diffuse,5,Candida glabrata,37.1,95,16.6,5.1,35,340,3,12.9,70,27,61,8.7
+5002,Purulent,Diffuse,14,Escherichia coli,36.3,97,8.9,4.9,50,141,92,3.8,79,23,,7.2
+5003,Purulent,Diffuse,11,Staphylococcus aureus,37.7,95,10,8.2,50,221,28,19.6,33,58,91,6.3
+5004,Purulent,Diffuse,11,Candida albicans,36.6,95,8.7,3.4,40,317,13,7.2,110,25,54,13.8
+5005,Purulent,Diffuse,14,,36.9,91,9,6.4,40,253,4,17.5,42,29,50,4.1
+5006,Purulent,Diffuse,5,Coli form sp.,37.5,97,8.9,5.3,35,242,4,9.4,39,18,45,4.6
+5007,Purulent,Diffuse,11,Pseudomonas sp.,36.4,96,10.4,5.4,40,212,6,14.8,74,31,63,7.5
+5008,Non-purulent,Diffuse,8,Candida lusitaniae,36.8,92,11.8,5,40,269,10,14.5,62,24,50,4.3
+5009,None,Diffuse,11,Haemophilus influenzae,36.2,98,11.7,5.6,30,142,8,8.4,64,27,52,5.3
+5010,Purulent,Localised,11,,36.7,90,9.2,13.1,45,174,9,11.6,54,27,57,6.6
+5011,Purulent,Diffuse,11,Candida dubliniensis,36.7,100,13.6,7.7,30,248,11,13,48,30,,3.2
+5012,Purulent,Localised,11,Enterobacter sp.,37.3,98,12,4.5,45,111,9,8.4,394,21,41,35.4
+5013,Purulent,Diffuse,11,Escherichia coli,39.2,91,18.8,5.5,40,315,14,20.4,60,24,76,9
+5014,Purulent,Diffuse,8,,35.6,95,41.5,7,35,26,26,4.2,66,44,58,17.6
+5015,Purulent,Diffuse,11,,38.1,97,9.3,5.3,45,169,61,10.7,60,25,45,7.3
+5016,Purulent,Diffuse,5,Serratia marascens,36.6,98,10.7,4.8,35,272,4,7.8,123,27,51,10.1
+5017,Purulent,Localised,8,Klebsiella oxytoca,38.8,40,6.5,5,40,70,123,20.1,96,40,61,28.8
+5018,Non-purulent,Localised,8,Candida albicans,37.5,96,,,40,276,6,8.3,100,26,60,19.1
+5019,Non-purulent,Diffuse,8,Staphylococcus aureus,34.5,96,10.9,6.8,40,208,,8.1,174,,,13.5
+5020,Purulent,Diffuse,14,Pseudomonas aeruginosa,38.2,100,11.5,7.5,50,682,6,18.8,41,23,42,1.1
+5021,Purulent,Diffuse,8,Proteus Mirabilis,36.5,97,9.3,5.3,30,154,,15.6,114,,,10
+5022,Purulent,Localised,8,Haemophilus influenzae,37.5,96,9.1,6.4,50,132,,5.8,57,,,5.3
+5023,Purulent,Diffuse,5,,38.1,98,10.8,5.7,30,332,4,17,166,27,58,11.7
+5024,Non-purulent,Diffuse,5,Staphylococcus aureus,36.3,94,,,40,334,4,13,49,22,62,6.1
+5025,Purulent,Localised,11,,38.7,93,16.6,6.9,40,93,20,2.1,53,32,63,74
+5026,Purulent,Localised,11,,37,89,7.4,11.3,35,110,3,6.8,79,28,46,12.2
+5027,Non-purulent,Localised,11,Stenotrophomonas maltophilia,37.5,93,9.9,6,35,163,44,17.2,93,25,54,14.8
+5028,Purulent,Localised,11,Candida albicans,37.7,96,,,50,172,3,8.4,160,18,56,10.4
+5029,Purulent,Diffuse,11,,36.6,91,9.7,6.1,60,284,,23.9,56,,,7.3
+5030,Non-purulent,None,8,Staphylococcus aureus,37.5,92,14.4,5.1,55,330,,27.6,107,,,14.2
+5031,Non-purulent,Localised,8,Candida albicans,36.8,100,11.3,5.2,25,305,3,8.7,67,37,60,12.7
+5032,Purulent,Diffuse,11,Streptococcus pneumoniae,37.6,93,8.9,4.6,35,83,,10,172,,,12.3
+5033,Purulent,Localised,14,,38,96,11.2,4.9,45,113,33,5.9,219,26,47,17.7
